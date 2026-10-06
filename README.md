@@ -24,7 +24,7 @@ In the run shown above, 10 videos passed through the filter and the AI step; the
 
 Videos classified as underperforming trigger an alert in the team's Discord channel with the title, the view count and the classification:
 
-![Discord alerts](docs/screenshots/discord-alerts.jpeg)
+![Discord alerts](https://github.com/iqra-khan740/Youtube-video-performance-monitor/blob/main/youtube-video-performance-monitor/docs/screenshots/discord-alerts.jpeg)
 
 ```
 ⚠️ Video needs attention, please look into this:
