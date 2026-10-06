@@ -4,7 +4,7 @@ An automated pipeline built in **Make** that checks a YouTube channel's videos, 
 
 **Stack:** Make · YouTube Data API v3 · Make AI Toolkit · Discord
 
-![Make scenario]()
+![Make scenario](https://github.com/iqra-khan740/Youtube-video-performance-monitor/blob/main/youtube-video-performance-monitor/docs/screenshots/make-scenario.png)
 
 ## How it works
 
